@@ -1,6 +1,7 @@
 export const LightTheme = {
+  bkColor: "#efeeee",
   mainColor: "hsl(0, 0%, 98%)",
-  secondaryColor: "hsl(0, 0%, 100%)",
+  secondaryColor: "#e3e3e3",
   fontColor: "hsl(200, 15%, 8%)",
   fontSecondaryColor: "hsl(200, 15%, 8%)",
   hoverColor: "hsl(0, 12% ,80% , 48%)",
